@@ -8,4 +8,4 @@ Desenvolver um programa para cadastrar os funcionários de uma empresa e calcula
 - Comissão: adicional devido pelas vendas realizadas pelos funcionários que são comissionados.
 - Diagrama de Classes
 
-![Diagrama UML](UML-Funcionario.jpg "Diagra de Classe - Classe Abstrata")
+![Diagrama UML](UML-Funcionário.jpg "Diagra de Classe - Classe Abstrata")
